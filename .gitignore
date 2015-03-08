@@ -30,8 +30,8 @@ define('PHP_FIREWALL_ADMIN_MAIL', 'YOUR EMAIL' );  // write your email, firewall
 define('PHP_FIREWALL_PUSH_MAIL', true );                       // activate email repports true (active) false (deactive)
 define('PHP_FIREWALL_LOG_FILE', 'logs' );                       // filename logs for php firewall
 define('PHP_FIREWALL_PROTECTION_UNSET_GLOBALS', true );         //  true (active) false (deactive)  
-define('PHP_FIREWALL_PROTECTION_RANGE_IP_Abyssguard', true );   //             =//=
-define('PHP_FIREWALL_PROTECTION_RANGE_IP_HONEYPOT', true );     //  http://www.projecthoneypot.org/httpbl_configure.php follow the steps at the site to zctivate Your http:BL Access Key and your traps
+define('PHP_FIREWALL_PROTECTION_RANGE_IP_Abyssguard', true );   //  https://www.abyssguard.com/?ref=766398356910  follow the steps at the site to activate Your abyssguard 
+define('PHP_FIREWALL_PROTECTION_RANGE_IP_HONEYPOT', true );     //  http://www.projecthoneypot.org/httpbl_configure.php follow the steps at the site to activate Your http:BL Access Key and your traps
 define('PHP_FIREWALL_PROTECTION_URL', true );                   //  true (active) false (deactive) 
 define('PHP_FIREWALL_PROTECTION_REQUEST_SERVER', true );        //             =//=
 define('PHP_FIREWALL_PROTECTION_SANTY', true );                 //             =//=
